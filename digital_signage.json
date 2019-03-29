@@ -2,9 +2,7 @@
   "database": {
     "host": "localhost",
     "port": 27017,
-    "dbName": "digitalsignage",
-    "username": "username",
-    "password": "password"
+    "dbName": "digitalsignage"
   },
   "plugins": [
     "core-plugin",
