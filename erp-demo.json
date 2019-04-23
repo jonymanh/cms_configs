@@ -1,0 +1,21 @@
+{
+  "database": {
+    "host": "db-gg1812.gigaorder.de",
+    "port": 27017,
+    "dbName": "giga-staging",
+    "username": "giga-staging",
+    "password": "gigadev123$%^"
+  },
+  "plugins": [
+    {
+      "name": "core-plugin",
+      "url": "https://github.com/anhoev/core-plugin.git",
+      "branch": "master"
+    },
+    {
+      "name": "permission-plugin",
+      "url": "https://github.com/anhoev/permission-plugin.git",
+      "branch": "master"
+    }
+  ]
+}
